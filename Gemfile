@@ -8,6 +8,7 @@ gem 'bump', require: false
 gem 'pry'
 gem 'pry-byebug' if RUBY_ENGINE == 'ruby'
 gem 'rake', '~> 12.0'
+gem 'rufo'
 gem 'rspec', '~> 3.7'
 gem 'rubocop-rspec', '~> 1.29.0'
 gem 'simplecov', '~> 0.10'
